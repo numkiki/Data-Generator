@@ -1,0 +1,960 @@
+21278312
+Tran Huu Minh
+7
+099-1111-333
+thminh@student.hcmus.edu.vn
+7/12/2003
+8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh City
+
+21278323
+Nguyen Dieu Linh
+9.2
+091-3214-891
+ndlinh@student.hcmus.edu.vn
+23/09/2003
+22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh City
+
+21278333
+Ngo Thoi Chanh
+0.59
+097-0124-000
+ntchanh@student.hcmus.edu.vn
+12/06/2003
+8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh City
+
+21120818
+Hoang Thanh Tien
+4.71
+023-2100-227
+httien@student.hcmus.edu.vn
+10/09/2003
+652 Nguyen Van Cu, Ong Lanh Ward, District 10, Ho Chi Minh City
+
+21121180
+Tran Huu Chi
+6.63
+088-8827-292
+thchi@student.hcmus.edu.vn
+23/10/2003
+192 Tran Van Dang, Ward 12, District 1, Ho Chi Minh City
+
+21115771
+Huynh Vinh Phuong
+8.84
+086-4344-717
+hvphuong@student.hcmus.edu.vn
+27/11/2003
+425 Nguyen Van Cu, Ward 13, District 2, Ho Chi Minh City
+
+21120204
+Hoang Nhu Tuan
+1
+098-3018-628
+hntuan@student.hcmus.edu.vn
+15/08/2003
+851 Tran Binh Trong, Ward 13, District 1, Ho Chi Minh City
+
+21105858
+Ly Van An
+0.69
+033-9953-781
+lvan@student.hcmus.edu.vn
+22/05/2003
+867 Nguyen Dinh Chieu, Tan Hung Ward, District 2, Ho Chi Minh City
+
+21105227
+Hoang Duc Tuan
+2.27
+098-1320-899
+hdtuan@student.hcmus.edu.vn
+24/06/2003
+281 Bui Thi Xuan, Ong Lanh Ward, District 2, Ho Chi Minh City
+
+21102211
+Hoang Quang Tien
+1.88
+086-7824-315
+hqtien@student.hcmus.edu.vn
+19/10/2003
+109 Nguyen Huu Canh, Ward 11, Binh Thanh District, Ho Chi Minh City
+
+21112638
+Ly Nhu Thai
+6.35
+086-4630-300
+lnthai@student.hcmus.edu.vn
+23/03/2003
+150 Dong Ho, Ward 2, District 1, Ho Chi Minh City
+
+21105156
+Nguyen Nhu Phuong
+2.85
+093-5401-250
+nnphuong@student.hcmus.edu.vn
+27/09/2003
+227 Le Van Si, Ward 12, Binh Tan District, Ho Chi Minh City
+
+21121948
+Phan Minh Thai
+1.03
+077-6773-650
+pmthai@student.hcmus.edu.vn
+09/05/2003
+373 Tran Van Dang, Ong Lanh Ward, Binh Tan District, Ho Chi Minh City
+
+21121747
+Nguyen Thanh Phuong
+2.15
+023-1131-394
+ntphuong@student.hcmus.edu.vn
+06/02/2003
+766 Tran Van Dang, Ward 12, Binh Thanh District, Ho Chi Minh City
+
+21105532
+Ngo Duc Duong
+1.92
+033-7515-504
+ndduong@student.hcmus.edu.vn
+28/03/2003
+380 Nguyen Van Cu, Ward 11, Binh Thanh District, Ho Chi Minh City
+
+21124415
+Pham Thanh Ngoc
+4.25
+033-2398-600
+ptngoc@student.hcmus.edu.vn
+23/06/2003
+959 Le Van Si, Ward 11, District 1, Ho Chi Minh City
+
+21127457
+Huynh Manh An
+4.53
+023-3914-583
+hman@student.hcmus.edu.vn
+28/03/2003
+750 Dong Ho, Ward 2, District 3, Ho Chi Minh City
+
+21106118
+Nguyen Nhat Duong
+3.02
+093-3652-770
+nnduong@student.hcmus.edu.vn
+22/09/2003
+140 Tran Van Dang, Ward 12, District 5, Ho Chi Minh City
+
+21116192
+Ly Minh Huy
+3.62
+077-2308-867
+lmhuy@student.hcmus.edu.vn
+04/12/2003
+366 Le Van Si, Tan Kieng Ward, District 7, Ho Chi Minh City
+
+21129037
+Nguyen Phi Nam
+7.35
+098-3421-407
+npnam@student.hcmus.edu.vn
+09/07/2003
+796 Dong Ho, Ward 11, District 7, Ho Chi Minh City
+
+21126444
+Tran Nhu An
+1.26
+082-4109-997
+tnan@student.hcmus.edu.vn
+01/11/2003
+388 An Duong Vuong, Pham Ngu Lao Ward, District 1, Ho Chi Minh City
+
+21103043
+Ly Nhu Hung
+3.44
+078-9074-716
+lnhung@student.hcmus.edu.vn
+19/12/2003
+789 Le Van Si, Ward 11, District 2, Ho Chi Minh City
+
+21117118
+Ly Van Hung
+8.52
+082-9250-430
+lvhung@student.hcmus.edu.vn
+27/05/2003
+520 An Duong Vuong, Ward 12, District 7, Ho Chi Minh City
+
+21118150
+Dam Minh Tien
+0.1
+090-9802-328
+dmtien@student.hcmus.edu.vn
+01/02/2003
+90 An Duong Vuong, Ward 2, District 5, Ho Chi Minh City
+
+21130318
+Huynh Phi Quynh
+5.67
+033-8178-840
+hpquynh@student.hcmus.edu.vn
+05/05/2003
+814 Tran Van Dang, Tan Kieng Ward, District 3, Ho Chi Minh City
+
+21110497
+Ngo Minh Bao
+6.65
+039-3955-790
+nmbao@student.hcmus.edu.vn
+15/01/2003
+452 Tran Van Dang, Pham Ngu Lao Ward, District 2, Ho Chi Minh City
+
+21110859
+Le Duc Hung
+6.16
+098-2370-761
+ldhung@student.hcmus.edu.vn
+12/05/2003
+560 An Duong Vuong, Ward 13, Go Vap District, Ho Chi Minh City
+
+21116989
+Huynh Vinh Phuong
+3.69
+098-1697-482
+hvphuong@student.hcmus.edu.vn
+23/06/2003
+689 An Duong Vuong, Ward 12, Phu Nhuan District, Ho Chi Minh City
+
+21123367
+Tran Minh Bao
+5.63
+082-3396-745
+tmbao@student.hcmus.edu.vn
+24/07/2003
+907 Tran Van Dang, Ward 11, District 1, Ho Chi Minh City
+
+21111699
+Phan Uyen Quynh
+6.53
+086-7250-474
+puquynh@student.hcmus.edu.vn
+11/05/2003
+29 An Duong Vuong, Ward 2, Go Vap District, Ho Chi Minh City
+
+21103848
+Vo Thanh Hung
+4.18
+023-6742-702
+vthung@student.hcmus.edu.vn
+05/08/2003
+407 Pham Viet Chanh, Ward 13, District 7, Ho Chi Minh City
+
+21129707
+Phan Nhat Thai
+2.5
+086-6724-558
+pnthai@student.hcmus.edu.vn
+12/02/2003
+686 Nguyen Huu Canh, Ward 2, District 5, Ho Chi Minh City
+
+21100964
+Dam Minh Hung
+6.08
+090-8966-875
+dmhung@student.hcmus.edu.vn
+27/06/2003
+492 Tran Binh Trong, Ong Lanh Ward, District 1, Ho Chi Minh City
+
+21131387
+Tran Nhu Tien
+6.57
+098-9976-742
+tntien@student.hcmus.edu.vn
+13/09/2003
+389 Pham Viet Chanh, Tan Hung Ward, District 2, Ho Chi Minh City
+
+21105239
+Huynh Nhu Phuong
+9.96
+093-3948-901
+hnphuong@student.hcmus.edu.vn
+24/10/2003
+898 Tran Binh Trong, Ong Lanh Ward, District 2, Ho Chi Minh City
+
+21132138
+Tran Huu Nam
+7.46
+077-5574-460
+thnam@student.hcmus.edu.vn
+09/08/2003
+605 Dong Ho, Ward 13, Phu Nhuan District, Ho Chi Minh City
+
+21120423
+Dam Nhu Anh
+0.42
+039-7258-133
+dnanh@student.hcmus.edu.vn
+28/04/2003
+584 An Duong Vuong, Ward 13, District 2, Ho Chi Minh City
+
+21119970
+Huynh Nhat Nam
+4.3
+086-3915-208
+hnnam@student.hcmus.edu.vn
+05/07/2003
+519 An Duong Vuong, Pham Ngu Lao Ward, District 2, Ho Chi Minh City
+
+21126772
+Phan Thanh Quynh
+4.19
+099-9982-489
+ptquynh@student.hcmus.edu.vn
+16/12/2003
+641 Nguyen Huu Canh, Ward 13, Tan Binh District, Ho Chi Minh City
+
+21126495
+Huynh Manh Phuong
+5.54
+093-1225-865
+hmphuong@student.hcmus.edu.vn
+05/01/2003
+765 Nguyen Huu Canh, Ward 12, District 10, Ho Chi Minh City
+
+21125181
+Pham Minh Tuan
+7.69
+099-6044-620
+pmtuan@student.hcmus.edu.vn
+06/07/2003
+406 Nguyen Huu Canh, Pham Ngu Lao Ward, Binh Tan District, Ho Chi Minh City
+
+21123080
+Pham Duc Duong
+4.43
+078-8264-555
+pdduong@student.hcmus.edu.vn
+25/05/2003
+321 Nguyen Dinh Chieu, Tan Kieng Ward, District 7, Ho Chi Minh City
+
+21108338
+Dam Duc Tuan
+5.23
+039-7556-810
+ddtuan@student.hcmus.edu.vn
+02/12/2003
+555 Nguyen Van Cu, Ward 2, Binh Thanh District, Ho Chi Minh City
+
+21125357
+Pham Vinh Duong
+8.4
+033-3856-830
+pvduong@student.hcmus.edu.vn
+18/07/2003
+458 Le Van Si, Ward 12, District 10, Ho Chi Minh City
+
+21130957
+Nguyen Duc An
+9.68
+078-5753-199
+ndan@student.hcmus.edu.vn
+07/09/2003
+90 Nguyen Huu Canh, Tan Hung Ward, District 2, Ho Chi Minh City
+
+21131170
+Tran Uyen Hung
+6.64
+033-4023-952
+tuhung@student.hcmus.edu.vn
+29/08/2003
+132 Nguyen Dinh Chieu, Ward 13, Tan Binh District, Ho Chi Minh City
+
+21117275
+Dam Quang Tien
+0.32
+088-3215-592
+dqtien@student.hcmus.edu.vn
+03/08/2003
+687 An Duong Vuong, Ward 13, Phu Nhuan District, Ho Chi Minh City
+
+21103067
+Le Duc Chi
+5.39
+099-4653-921
+ldchi@student.hcmus.edu.vn
+04/12/2003
+62 Nguyen Huu Canh, Ward 12, District 2, Ho Chi Minh City
+
+21105543
+Vo Thanh Tien
+5.65
+088-5663-591
+vttien@student.hcmus.edu.vn
+14/01/2003
+155 Tran Binh Trong, Tan Hung Ward, District 7, Ho Chi Minh City
+
+21131931
+Ly Uyen Thai
+0.49
+039-5546-150
+luthai@student.hcmus.edu.vn
+30/01/2003
+970 Le Van Si, Tan Hung Ward, District 5, Ho Chi Minh City
+
+21131720
+Dam Nhu Duong
+0.86
+023-8331-768
+dnduong@student.hcmus.edu.vn
+29/10/2003
+452 Pham Viet Chanh, Ward 12, Phu Nhuan District, Ho Chi Minh City
+
+21120567
+Nguyen Nhu Thai
+6.31
+077-8458-275
+nnthai@student.hcmus.edu.vn
+01/06/2003
+470 Pham Viet Chanh, Ward 11, Binh Tan District, Ho Chi Minh City
+
+21110327
+Le Xuan Tung
+6.75
+077-4325-130
+lxtung@student.hcmus.edu.vn
+12/09/2003
+271 Tran Binh Trong, Tan Kieng Ward, District 3, Ho Chi Minh City
+
+21125566
+Ly Thanh Phuong
+3.54
+090-4591-133
+ltphuong@student.hcmus.edu.vn
+19/12/2003
+296 Nguyen Dinh Chieu, Ward 12, District 3, Ho Chi Minh City
+
+21127446
+Nguyen Nhu Quynh
+4.36
+098-2712-501
+nnquynh@student.hcmus.edu.vn
+17/10/2003
+255 Pham Viet Chanh, Ward 13, Go Vap District, Ho Chi Minh City
+
+21106725
+Huynh Uyen Tung
+6.02
+082-5770-421
+hutung@student.hcmus.edu.vn
+10/05/2003
+830 Pham Viet Chanh, Ward 2, District 5, Ho Chi Minh City
+
+21116034
+Phan Thanh Tien
+0.89
+098-8326-126
+pttien@student.hcmus.edu.vn
+25/12/2003
+293 An Duong Vuong, Ward 12, District 7, Ho Chi Minh City
+
+21115611
+Phan Xuan Nam
+2.97
+033-4369-860
+pxnam@student.hcmus.edu.vn
+07/09/2003
+496 Tran Van Dang, Ward 12, District 10, Ho Chi Minh City
+
+21105829
+Phan Quang Quynh
+9.3
+099-5311-300
+pqquynh@student.hcmus.edu.vn
+27/05/2003
+746 Nguyen Van Cu, Ong Lanh Ward, Phu Nhuan District, Ho Chi Minh City
+
+21113957
+Le Phi Chi
+8.59
+090-5429-819
+lpchi@student.hcmus.edu.vn
+29/11/2003
+991 Nguyen Van Cu, Ward 12, Tan Binh District, Ho Chi Minh City
+
+21119194
+Nguyen Thanh Thai
+6.33
+039-4055-805
+ntthai@student.hcmus.edu.vn
+13/11/2003
+866 An Duong Vuong, Pham Ngu Lao Ward, District 7, Ho Chi Minh City
+
+21116795
+Phan Manh Tuan
+2.17
+088-9936-465
+pmtuan@student.hcmus.edu.vn
+07/03/2003
+655 Le Van Si, Tan Hung Ward, District 3, Ho Chi Minh City
+
+21124544
+Le Nhu Hung
+4.49
+033-6152-376
+lnhung@student.hcmus.edu.vn
+05/03/2003
+76 Bui Thi Xuan, Ward 12, District 2, Ho Chi Minh City
+
+21118086
+Ly Nhu Bao
+6.11
+039-9425-108
+lnbao@student.hcmus.edu.vn
+10/06/2003
+519 Nguyen Huu Canh, Ward 2, District 5, Ho Chi Minh City
+
+21101092
+Tran Vinh Duong
+3.66
+088-1359-193
+tvduong@student.hcmus.edu.vn
+30/11/2003
+1000 Le Van Si, Ward 2, District 5, Ho Chi Minh City
+
+21118739
+Nguyen Phi Tien
+4.03
+033-2005-857
+nptien@student.hcmus.edu.vn
+21/02/2003
+439 Nguyen Dinh Chieu, Ward 12, Go Vap District, Ho Chi Minh City
+
+21117008
+Vo Manh Hung
+1.7
+099-8118-446
+vmhung@student.hcmus.edu.vn
+27/04/2003
+173 Nguyen Van Cu, Ward 11, District 10, Ho Chi Minh City
+
+21116161
+Le Quang Bao
+4.86
+099-5445-145
+lqbao@student.hcmus.edu.vn
+29/03/2003
+47 Nguyen Huu Canh, Ward 11, District 7, Ho Chi Minh City
+
+21109121
+Le Uyen Chi
+7.61
+086-1554-350
+luchi@student.hcmus.edu.vn
+15/02/2003
+297 An Duong Vuong, Tan Kieng Ward, Phu Nhuan District, Ho Chi Minh City
+
+21121217
+Pham Uyen Tien
+9.95
+099-5101-928
+putien@student.hcmus.edu.vn
+31/03/2003
+431 Tran Binh Trong, Tan Kieng Ward, Go Vap District, Ho Chi Minh City
+
+21106450
+Le Thanh Tuan
+1.9
+033-2984-347
+lttuan@student.hcmus.edu.vn
+21/09/2003
+6 Nguyen Van Cu, Ward 13, District 10, Ho Chi Minh City
+
+21128261
+Tran Nhu Ngoc
+2.43
+078-6384-762
+tnngoc@student.hcmus.edu.vn
+18/05/2003
+223 An Duong Vuong, Ward 13, Tan Binh District, Ho Chi Minh City
+
+21104358
+Hoang Huu Huy
+3.02
+090-5897-737
+hhhuy@student.hcmus.edu.vn
+21/01/2003
+839 Nguyen Huu Canh, Ward 2, Phu Nhuan District, Ho Chi Minh City
+
+21101886
+Ly Vinh Quynh
+9.49
+086-7456-483
+lvquynh@student.hcmus.edu.vn
+19/08/2003
+543 Tran Binh Trong, Ward 11, Binh Thanh District, Ho Chi Minh City
+
+21105357
+Vo Van Hung
+5.21
+078-3269-284
+vvhung@student.hcmus.edu.vn
+30/05/2003
+285 Nguyen Van Cu, Ong Lanh Ward, Tan Binh District, Ho Chi Minh City
+
+21116280
+Vo Thanh Duong
+6.09
+082-9188-972
+vtduong@student.hcmus.edu.vn
+24/10/2003
+721 Bui Thi Xuan, Ward 13, District 3, Ho Chi Minh City
+
+21123132
+Phan Nhu An
+5.33
+099-9799-748
+pnan@student.hcmus.edu.vn
+20/11/2003
+633 Pham Viet Chanh, Tan Hung Ward, District 5, Ho Chi Minh City
+
+21112141
+Tran Van Thai
+1.35
+039-7535-734
+tvthai@student.hcmus.edu.vn
+26/11/2003
+417 Bui Thi Xuan, Pham Ngu Lao Ward, Binh Tan District, Ho Chi Minh City
+
+21111116
+Phan Nhat An
+9.51
+082-1611-718
+pnan@student.hcmus.edu.vn
+09/09/2003
+787 An Duong Vuong, Tan Kieng Ward, District 2, Ho Chi Minh City
+
+21110357
+Tran Thanh Huy
+6.6
+098-5466-447
+tthuy@student.hcmus.edu.vn
+10/08/2003
+395 Nguyen Dinh Chieu, Ong Lanh Ward, Go Vap District, Ho Chi Minh City
+
+21101513
+Dam Manh Thai
+5.47
+098-9315-197
+dmthai@student.hcmus.edu.vn
+26/09/2003
+741 An Duong Vuong, Ward 13, Go Vap District, Ho Chi Minh City
+
+21129670
+Dam Huu Bao
+4.55
+033-1491-182
+dhbao@student.hcmus.edu.vn
+16/08/2003
+144 Pham Viet Chanh, Tan Hung Ward, District 3, Ho Chi Minh City
+
+21123312
+Ly Xuan Quynh
+5.06
+098-5361-169
+lxquynh@student.hcmus.edu.vn
+01/08/2003
+898 Nguyen Van Cu, Ong Lanh Ward, District 5, Ho Chi Minh City
+
+21119151
+Vo Huu Tung
+1.7
+082-3028-758
+vhtung@student.hcmus.edu.vn
+03/06/2003
+87 Bui Thi Xuan, Ward 11, District 5, Ho Chi Minh City
+
+21117296
+Vo Nhat Quynh
+9.24
+088-5906-956
+vnquynh@student.hcmus.edu.vn
+08/03/2003
+229 Le Van Si, Ward 11, Binh Thanh District, Ho Chi Minh City
+
+21104613
+Le Manh Thai
+8.22
+093-7053-495
+lmthai@student.hcmus.edu.vn
+23/09/2003
+830 Le Van Si, Tan Hung Ward, District 2, Ho Chi Minh City
+
+21113484
+Nguyen Nhu An
+7.26
+093-7741-407
+nnan@student.hcmus.edu.vn
+13/02/2003
+773 Pham Viet Chanh, Ong Lanh Ward, District 7, Ho Chi Minh City
+
+21131977
+Nguyen Xuan Chi
+8.75
+099-4379-914
+nxchi@student.hcmus.edu.vn
+01/11/2003
+731 Nguyen Huu Canh, Pham Ngu Lao Ward, District 3, Ho Chi Minh City
+
+21110388
+Dam Vinh Hung
+4.49
+098-9018-283
+dvhung@student.hcmus.edu.vn
+29/07/2003
+893 Dong Ho, Tan Kieng Ward, District 5, Ho Chi Minh City
+
+21115872
+Phan Vinh Thai
+3.01
+077-7133-195
+pvthai@student.hcmus.edu.vn
+20/05/2003
+624 Dong Ho, Ward 11, District 5, Ho Chi Minh City
+
+21126865
+Hoang Huu Quynh
+5.62
+088-1808-995
+hhquynh@student.hcmus.edu.vn
+14/04/2003
+130 Nguyen Dinh Chieu, Ward 12, District 7, Ho Chi Minh City
+
+21100136
+Phan Uyen Duong
+5.08
+098-7150-142
+puduong@student.hcmus.edu.vn
+04/04/2003
+217 Le Van Si, Ong Lanh Ward, District 1, Ho Chi Minh City
+
+21104988
+Le Phi Tung
+8.74
+098-1163-328
+lptung@student.hcmus.edu.vn
+12/06/2003
+467 Tran Binh Trong, Tan Hung Ward, District 7, Ho Chi Minh City
+
+21102976
+Nguyen Uyen Chi
+1.32
+077-4920-852
+nuchi@student.hcmus.edu.vn
+03/08/2003
+729 Bui Thi Xuan, Tan Kieng Ward, Phu Nhuan District, Ho Chi Minh City
+
+21122919
+Ly Xuan Hung
+3.75
+093-3702-423
+lxhung@student.hcmus.edu.vn
+18/08/2003
+363 Nguyen Huu Canh, Pham Ngu Lao Ward, Binh Thanh District, Ho Chi Minh City
+
+21126575
+Hoang Thanh Bao
+4.26
+086-8361-789
+htbao@student.hcmus.edu.vn
+17/04/2003
+456 Tran Van Dang, Ward 13, Binh Tan District, Ho Chi Minh City
+
+21106807
+Ngo Manh Chi
+3.31
+093-4031-347
+nmchi@student.hcmus.edu.vn
+13/12/2003
+199 Pham Viet Chanh, Ward 12, District 7, Ho Chi Minh City
+
+21115743
+Ly Vinh Duong
+9.96
+090-9395-284
+lvduong@student.hcmus.edu.vn
+18/02/2003
+975 Le Van Si, Ward 2, Phu Nhuan District, Ho Chi Minh City
+
+21121255
+Nguyen Minh Chi
+0.86
+078-9578-563
+nmchi@student.hcmus.edu.vn
+13/12/2003
+77 Le Van Si, Pham Ngu Lao Ward, District 7, Ho Chi Minh City
+
+21128164
+Dam Nhu Ngoc
+2.59
+077-9454-508
+dnngoc@student.hcmus.edu.vn
+08/10/2003
+482 Tran Binh Trong, Ward 12, Phu Nhuan District, Ho Chi Minh City
+
+21100870
+Pham Thanh Chi
+1.48
+098-7739-919
+ptchi@student.hcmus.edu.vn
+30/04/2003
+798 Pham Viet Chanh, Ward 11, District 2, Ho Chi Minh City
+
+21109378
+Ngo Vinh Quynh
+6.73
+090-1308-872
+nvquynh@student.hcmus.edu.vn
+12/02/2003
+613 Nguyen Van Cu, Tan Kieng Ward, District 10, Ho Chi Minh City
+
+21112657
+Hoang Nhat Tien
+0.57
+098-5328-888
+hntien@student.hcmus.edu.vn
+31/05/2003
+649 Nguyen Huu Canh, Ward 11, Phu Nhuan District, Ho Chi Minh City
+
+21105926
+Ly Minh Phuong
+8.62
+093-4195-168
+lmphuong@student.hcmus.edu.vn
+15/10/2003
+372 Tran Binh Trong, Tan Hung Ward, Binh Tan District, Ho Chi Minh City
+
+21130941
+Le Minh Duong
+4.84
+077-3625-939
+lmduong@student.hcmus.edu.vn
+23/06/2003
+881 Tran Van Dang, Ward 12, Phu Nhuan District, Ho Chi Minh City
+
+21117464
+Hoang Thanh Nam
+9.63
+093-2862-405
+htnam@student.hcmus.edu.vn
+25/08/2003
+436 An Duong Vuong, Tan Hung Ward, Binh Tan District, Ho Chi Minh City
+
+21130737
+Phan Nhu Quynh
+8.25
+093-3830-513
+pnquynh@student.hcmus.edu.vn
+30/09/2003
+102 Nguyen Huu Canh, Ward 2, District 3, Ho Chi Minh City
+
+21109532
+Dam Uyen An
+9.69
+086-2798-145
+duan@student.hcmus.edu.vn
+24/04/2003
+839 Tran Van Dang, Pham Ngu Lao Ward, Go Vap District, Ho Chi Minh City
+
+21120880
+Tran Nhat Tung
+2.88
+093-6625-280
+tntung@student.hcmus.edu.vn
+30/11/2003
+405 Pham Viet Chanh, Ward 11, District 7, Ho Chi Minh City
+
+21129181
+Le Uyen Tuan
+1.75
+086-4221-545
+lutuan@student.hcmus.edu.vn
+26/12/2003
+413 Dong Ho, Tan Hung Ward, District 10, Ho Chi Minh City
+
+21100211
+Phan Uyen Thai
+5.12
+088-6006-682
+puthai@student.hcmus.edu.vn
+14/04/2003
+668 Tran Binh Trong, Tan Kieng Ward, District 7, Ho Chi Minh City
+
+21119920
+Ly Minh Hung
+1.41
+082-9266-334
+lmhung@student.hcmus.edu.vn
+20/08/2003
+974 Nguyen Dinh Chieu, Ward 13, Binh Tan District, Ho Chi Minh City
+
+21113029
+Le Uyen Tung
+2.4
+023-5788-806
+lutung@student.hcmus.edu.vn
+30/03/2003
+328 Dong Ho, Tan Hung Ward, Tan Binh District, Ho Chi Minh City
+
+21102216
+Ly Thanh Duong
+4.68
+088-6582-403
+ltduong@student.hcmus.edu.vn
+25/09/2003
+167 Bui Thi Xuan, Ward 12, Binh Tan District, Ho Chi Minh City
+
+21114994
+Le Thanh Hung
+2.4
+099-4663-360
+lthung@student.hcmus.edu.vn
+21/07/2003
+436 Tran Van Dang, Ward 11, Binh Thanh District, Ho Chi Minh City
+
+21129757
+Vo Phi Tien
+9
+099-9992-259
+vptien@student.hcmus.edu.vn
+21/05/2003
+303 Nguyen Dinh Chieu, Ward 12, District 10, Ho Chi Minh City
+
+21129350
+Ly Nhu Duong
+8.19
+039-6665-618
+lnduong@student.hcmus.edu.vn
+30/05/2003
+853 Tran Van Dang, Ong Lanh Ward, Binh Tan District, Ho Chi Minh City
+
+21114313
+Ly Phi Duong
+3.13
+093-6816-189
+lpduong@student.hcmus.edu.vn
+02/06/2003
+487 Nguyen Dinh Chieu, Ward 13, District 7, Ho Chi Minh City
+
+21108127
+Pham Phi Nam
+0.54
+099-1861-722
+ppnam@student.hcmus.edu.vn
+22/07/2003
+781 Nguyen Van Cu, Ward 2, Phu Nhuan District, Ho Chi Minh City
+
+21117809
+Le Van Hung
+4.26
+039-4771-351
+lvhung@student.hcmus.edu.vn
+27/09/2003
+215 Le Van Si, Tan Kieng Ward, District 5, Ho Chi Minh City
+

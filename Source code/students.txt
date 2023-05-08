@@ -1,0 +1,24 @@
+21278312
+Tran Huu Minh
+7
+099-1111-333
+thminh@student.hcmus.edu.vn
+7/12/2003
+8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh City
+
+21278323
+Nguyen Dieu Linh
+9.2
+091-3214-891
+ndlinh@student.hcmus.edu.vn
+23/09/2003
+22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh City
+
+21278333
+Ngo Thoi Chanh
+6.59
+097-0124-000
+ntchanh@student.hcmus.edu.vn
+12/06/2003
+8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh City
+
